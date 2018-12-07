@@ -1,0 +1,10 @@
+@extends('layouts.app')
+@section('titulo')
+Mensagem
+@endsection
+@section('painel')
+Mensagem
+@endsection
+@section('conteudo')
+Mensagem
+@endsection
