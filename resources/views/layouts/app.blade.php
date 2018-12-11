@@ -2,12 +2,13 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
+<meta name="autores" content="Mateus, Luan H., Pedro Júlio e Samantha">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Início || @yield('titulo','LayoutPadrao')</title>
+    <title>Mensagens Lunares || @yield('titulo','LayoutPadrao')</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -79,7 +80,7 @@
        /* position: absolute; */
        /* bottom: 0; */
        width: 100%;
-       /* height: 60px; /* Set the fixed height of the footer here */ */
+       /* height: 60px; /* Set the fixed height of the footer here */
        line-height: 60px; /* Vertically center the text there */
        background-color: #f5f5f5;
      }

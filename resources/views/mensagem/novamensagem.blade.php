@@ -4,9 +4,6 @@
 Nova Mensagem
 @endsection
 
-@section('painel')
-@endsection
-
 @section('conteudo')
 <form class="" action="{{route('mensagem.salvarmensagem')}}" method="post">
   @csrf

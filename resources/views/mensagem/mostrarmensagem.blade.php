@@ -4,10 +4,6 @@
 Exibir mensagens
 @endsection
 
-@section('painel')
-Exibir mensagens
-@endsection
-
 @section('conteudo')
 <div class="card">
   <div class="card-body">

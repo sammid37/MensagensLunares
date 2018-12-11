@@ -13,9 +13,10 @@ Index
   <p id="descr">A Lua é um ótimo lugar para salvar qualquer mensagem proveniente de seu coração.</p>
   <br>
   <div class="container-fluid" id="informacao">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Alguma vez você já se perguntou se a Lua pode te ouvir? Mesmo que este satélite esteja a vários anos luz, essa versão artificial permite que você viaje até ela ou simplesmente deixe seu pensmento em uma de suas crateras, apenas para você e mais ninguém, um espacinho somente seu.</p>
     <br>
-    <img src="" alt="alguma imagem">
+<center><img style="width:200px;" src="https://images.vexels.com/media/users/3/145820/isolated/preview/7659c36de6f70eaf26a1854af11ac710-rocket-clipart-by-vexels.png" alt="alguma imagem"></center>
+    
   </div>
   <br>
 

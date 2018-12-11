@@ -4,10 +4,6 @@
 Bem-vindo
 @endsection
 
-@section('painel')
-Bem-vindo
-@endsection
-
 @section('conteudo')
 
 <div class="row justify-content-center">
